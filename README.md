@@ -2,7 +2,7 @@
 
 [책 쉽게 배우는 운영체제 스터디](http://www.yes24.com/Product/Goods/62054527) 스터디 입니다.
 
-참여자: [김선영](https://github.com/seondal) [김윤서](https://github.com/ottl-seo) [김하연](https://github.com/haayun) [장예서](https://github.com/yesyeseo)
+참여자: 
 
 ## GOAL
 
